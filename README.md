@@ -12,7 +12,7 @@ This was the first Power BI project I undertook.
 4. Stores: Store_City, Store_Id, Store_Location, Store_Name, Store_Open_Date (Stores were categorised into 4 types: Downtown, Commercial, Residential, and Airport
 
 ### Tasks performed
-1. Profile and clean the data
+1. Profiled and cleaned the data
 2. Created a calendar Table
 3. Built a relational model
 4. Created measures using DAX
